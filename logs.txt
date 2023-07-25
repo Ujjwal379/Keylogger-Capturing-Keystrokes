@@ -1,0 +1,1 @@
+'\x13'Key.ctrl_lKey.shift'w''h''a''t'Key.space'a''r''e'Key.spaceKey.shift'm''e''t''h''o''d''s'Key.space'o''f'Key.space'k''e''y''l''o''g''g''e''r'Key.spaceKey.shift_r'/'
